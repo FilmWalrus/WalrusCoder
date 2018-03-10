@@ -1,0 +1,25 @@
+False
+False
+True
+True
+True
+q
+0
+0
+True
+True
+True
+True
+True
+True
+False
+False
+True
+2
+2
+0
+0
+Route
+walrus12351
+11
+The route cipher is a classical transposition cipher with nearly infinite variations. Chunks of 25 letters are written into a grid in a particular order and taken back out of the grid in a second order, thus rearranging them. A simple case would be inscribing them in horizontal rows and then retrieving them in vertical columns (this is how columnar transposition works). The path types available here include raster (line by line), zigzag (back and forth), diagonal, spiral, swirl, archway, inverse (an echo shape) and symmetrical knight's tour (a chess puzzle with movement in an L pattern). These can be in any rotation, reflection or reversal. Set the specifics in the options menu. Playfair and all its descendants can be set to use routes.
